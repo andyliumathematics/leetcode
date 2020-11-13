@@ -1,6 +1,8 @@
-/*
+g*
  * @lc app=leetcode.cn id=1 lang=java
  *
+ *
+ * adkfl
  * [1] 两数之和
  */
 
